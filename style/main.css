@@ -46,7 +46,7 @@ header nav a :hover{
 
 .filme_principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url("/img/rick-and-mory.jpg");
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/rick-and-mory.jpg');
 
     height: 400px;
     background-size: cover;
